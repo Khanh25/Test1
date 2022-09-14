@@ -16,12 +16,17 @@ body{
     width: 1768px;
     background-color: white;
 }
+.mouse{
+    position: absolute;
+    left: 110px;
+}
 a{
     text-decoration: none;
 }
 .menu{
     width:100%;
     height: 935px;
+    margin-top: 18px;
 }
 ul{
     margin: 0;
@@ -48,7 +53,6 @@ h1{
 .group1 {
     margin-left: 80px;
     margin-top: 38px;
-
 }
 .logo{
     display: flex;
