@@ -1,0 +1,155 @@
+body{
+    width:1918px;
+    height:100%;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.Sidebar-background{
+    width: 150px;
+    height:auto;
+    background-color:#191718 ;
+}
+.Background{
+    width: 1768px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    width:100%;
+    height: 935px;
+}
+ul{
+    margin: 0;
+    padding:0;
+    list-style-type:none ;
+}
+.item{
+width:100%;
+border-bottom: 1px solid;
+height:30px;
+padding-top: 10px;
+padding-left: 20px;
+}
+.item a{
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #AAA;
+}
+h1{
+    margin-left: 324px;
+    font-size: 18px;;
+}
+.group1 {
+    margin-left: 80px;
+    margin-top: 38px;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.Group-1{
+    width:1510px;
+    height:210px;
+    background-color: #efefef;
+    display: flex;
+    justify-content: center;
+    margin-left: 129px;
+}
+.content-G1{
+    width: 972px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    align-items: center;
+}
+.group{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1638px;
+}
+.Group-2{
+    width: 470px;
+    top: 422px;
+    margin-left:130px;
+}
+h2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.content-css1{
+    width: 470px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.Css{
+    float: left;
+}
+.html{
+    float: left;
+}
+.url{
+    float: left;
+}
+.content-css2{
+    width: 470px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.Group-3{
+    width: 470px;
+}
+h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.content-html1{
+    width: 470px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.content-html2{
+    width: 470px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.html{
+    top: 70px;
+}
+.Group-4{
+    width: 470px;
+    right:129px;
+    bottom: 261px;
+}
+.content-url1{
+    width: 470px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.content-url2{
+    width: 470px;
+    height: 72px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.item:hover{
+    cursor: pointer;
+    font-weight: 700;
+    background-color: #ccc;
+}
